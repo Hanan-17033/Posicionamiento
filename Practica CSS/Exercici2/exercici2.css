@@ -1,0 +1,85 @@
+#contenedor{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    margin: 0 auto;
+    color: red;
+    text-align: center;
+}
+
+#one{
+    width: 400px;;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+
+#two{
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    float: right;
+}
+
+#three{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    float: left;
+}
+
+#four{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    float:right;
+}
+
+#five{
+    width: 200px;
+    height: 300px;
+    background-color: green;
+    float:right;
+}
+
+#six{
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    float:left;
+}
+
+#seven{
+    width: 200px;
+    height: 200px;
+    background-color:black;
+    float:left;
+}
+
+#eight{
+    width: 200px;
+    height: 100px;
+    background-color:greenyellow;
+    float:left;
+}
+
+#nine{
+    width: 200px;
+    height: 100px;
+    background-color:black;
+    float:left;
+}
+
+#ten{
+    width: 200px;
+    height: 100px;
+    background-color:greenyellow;
+    float:left;
+}
+
+#eleven{
+    width: 200px;
+    height: 100px;
+    background-color:green;
+    float:left;
+}
